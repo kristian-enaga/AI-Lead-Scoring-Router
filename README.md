@@ -1,4 +1,4 @@
-📌 Portfolio 2: AI Lead Scoring & Priority Router
+📌 AI Lead Scoring & Priority Router
 
 An automated AI triage engine built with **n8n** and **Google Gemini AI** to automatically qualify inbound sales leads and route high-value opportunities to sales teams in real time.
 
