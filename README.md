@@ -19,9 +19,8 @@ This automated n8n workflow acts as an instant lead triage system:
 
 ---
 
-## 📹 Loom Video Walkthrough
-Watch the 3-minute project demo:  
-👉 [AI Lead Scoring & Priority Router Demo] (https://www.loom.com/share/38164c8a840f4076b3ac0ec62a26e3ce)
+## 📹 Loom Video Walkthrough 
+Watch the 3-minute project demo: 👉 [AI Lead Scoring & Priority Router Demo](https://www.loom.com/share/38164c8a840f4076b3ac0ec62a26e3ce)
 
 ## 🧪 Live Execution Proof & AI Output Verification
 
