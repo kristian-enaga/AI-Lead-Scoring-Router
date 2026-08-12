@@ -8,6 +8,12 @@ An automated AI triage engine built with **n8n** and **Google Gemini AI** to aut
 ## 🎯 Business Problem
 Sales teams waste up to 70% of their day reviewing low-budget inquiries, while high-value enterprise prospects wait hours for a response. This delay leads to lost deals and lower pipeline conversion rates.
 
+## 💰 Business Impact & ROI
+
+* **⚡ 0-Second Lead Triage:** Eliminates the 70% time waste sales teams spend sifting through low-budget inquiries by instantly evaluating budget, company size, and urgency upon form submission.
+* **🚀 Maximized Pipeline Conversion:** Guarantees VIP enterprise prospects (Budget $\ge$ $10,000) trigger instant Slack alerts with AI reasoning for immediate sales intervention.
+* **🤖 100% Qualification Automation:** Replaces manual lead reviews with zero-latency AI scoring and central database sync in Google Sheets, freeing reps to focus exclusively on closing deals.
+
 ## 🚀 Solution Overview
 This automated n8n workflow acts as an instant lead triage system:
 1. **Webhook Trigger:** Receives raw lead payloads dynamically.
