@@ -2,7 +2,7 @@
 
 An automated AI triage engine built with **n8n** and **Google Gemini AI** to automatically qualify inbound sales leads and route high-value opportunities to sales teams in real time.
 
-![AI Lead Scoring Architecture](Ai_lead.png)
+![AI Lead Scoring Architecture](Lead_Scoring.png)
 ---
 
 ## 🎯 Business Problem
