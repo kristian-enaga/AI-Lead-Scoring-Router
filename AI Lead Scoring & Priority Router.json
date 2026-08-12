@@ -1,5 +1,4 @@
 {
-  "name": "Portfolio 2: AI Lead Scoring & Priority Router",
   "nodes": [
     {
       "parameters": {
@@ -259,7 +258,7 @@
     },
     {
       "parameters": {
-        "content": "📌 PORTFOLIO 2: AI LEAD SCORING & PRIORITY ROUTER\n\n🎯 Business Problem:\nSales teams waste up to 70% of their day reviewing low-budget inquiries, while high-value enterprise prospects wait hours for a reply, leading to lost deals and low conversion rates.\n\n🚀 The Solution:\nAutomated AI triage engine:\n1. Webhook receives raw lead payload.\n2. Google Gemini evaluates budget, company size, and urgency.\n3. IF Node routes leads based on AI boolean score.\n4. High-value leads trigger instant VIP alerts; standard leads receive an automated info packet.\n5. All leads are logged centrally in Google Sheets.\n\n💰 Business Impact & ROI:\n• Instant VIP response times (0-second triage).\n• 100% elimination of manual lead qualification overhead.\n• Maximized sales pipeline efficiency and revenue capture.",
+        "content": "📌 AI LEAD SCORING & PRIORITY ROUTER\n\n🎯 Business Problem:\nSales teams waste up to 70% of their day reviewing low-budget inquiries, while high-value enterprise prospects wait hours for a reply, leading to lost deals and low conversion rates.\n\n🚀 The Solution:\nAutomated AI triage engine:\n1. Webhook receives raw lead payload.\n2. Google Gemini evaluates budget, company size, and urgency.\n3. IF Node routes leads based on AI boolean score.\n4. High-value leads trigger instant VIP alerts; standard leads receive an automated info packet.\n5. All leads are logged centrally in Google Sheets.\n\n💰 Business Impact & ROI:\n• Instant VIP response times (0-second triage).\n• 100% elimination of manual lead qualification overhead.\n• Maximized sales pipeline efficiency and revenue capture.",
         "height": 512,
         "width": 592,
         "color": "#B81929"
@@ -267,8 +266,8 @@
       "type": "n8n-nodes-base.stickyNote",
       "typeVersion": 1,
       "position": [
-        -480,
-        -784
+        -320,
+        -848
       ],
       "id": "6f682a3f-bb5e-42f2-ad8c-73f571d7baab",
       "name": "Sticky Note"
@@ -283,8 +282,8 @@
       "type": "n8n-nodes-base.stickyNote",
       "typeVersion": 1,
       "position": [
-        144,
-        -752
+        288,
+        -832
       ],
       "id": "c888f564-927d-488d-b342-f266b4bc5a26",
       "name": "Sticky Note1"
@@ -299,14 +298,13 @@
       "type": "n8n-nodes-base.stickyNote",
       "typeVersion": 1,
       "position": [
-        736,
-        -544
+        864,
+        -560
       ],
       "id": "026b3f41-819f-46ea-b6aa-6f7a15d5eb3a",
       "name": "Sticky Note2"
     }
   ],
-  "pinData": {},
   "connections": {
     "Google Gemini Chat Model": {
       "ai_languageModel": [
@@ -371,42 +369,9 @@
       ]
     }
   },
-  "active": true,
-  "settings": {
-    "executionOrder": "v1",
-    "binaryMode": "separate",
-    "availableInMCP": false,
-    "timeSavedMode": "fixed",
-    "timezone": "Asia/Singapore",
-    "callerPolicy": "workflowsFromSameOwner",
-    "errorWorkflow": "2yoUrGUAyISOvdAX",
-    "executionTimeout": -1
-  },
-  "versionId": "a176b53f-687c-49b0-b290-99f7acd611fa",
+  "pinData": {},
   "meta": {
     "templateCredsSetupCompleted": true,
     "instanceId": "8c4cd777a5b3ec797918101641527b114bf980b11c0134f7edc5eb4d08953d59"
-  },
-  "nodeGroups": [],
-  "id": "JcbJKtMexvdokhnk",
-  "tags": [
-    {
-      "updatedAt": "2026-08-02T15:05:16.574Z",
-      "createdAt": "2026-08-02T15:05:16.574Z",
-      "id": "DR2mwbQrmjghmOnX",
-      "name": "v1"
-    },
-    {
-      "updatedAt": "2026-07-30T13:24:38.045Z",
-      "createdAt": "2026-07-30T13:24:38.045Z",
-      "id": "DwYBj19cUeFUwfIQ",
-      "name": "sprint 1 portfolio build"
-    },
-    {
-      "updatedAt": "2026-07-27T01:41:52.052Z",
-      "createdAt": "2026-07-27T01:41:52.052Z",
-      "id": "mWLPR4lPdrQ8hfmc",
-      "name": "portfolio"
-    }
-  ]
+  }
 }
