@@ -1,5 +1,15 @@
 # 📌 AI Lead Scoring & Priority Router
 
+
+Automated n8n + Gemini AI engine that instantly qualifies inbound leads and routes VIP prospects to sales in real time—so high-value deals get immediate attention while low-fit inquiries are handled automatically.
+
+- 0-second manual triage: AI scores budget, company size, and urgency on every submission
+- VIP leads (≥ $10k budget) trigger instant Slack alerts with AI reasoning
+- Full audit trail of all scored leads in Google Sheets
+
+**Stack:** n8n + Google Gemini + Slack + Gmail + Google Sheets
+
+---
 An automated AI triage engine built with **n8n** and **Google Gemini AI** to automatically qualify inbound sales leads and route high-value opportunities to sales teams in real time.
 
 ![AI Lead Scoring Architecture](Lead-Scoring.png)
