@@ -61,15 +61,21 @@ Watch the 3-minute project demo:
 
 ---
 
-## 🧪 Live Execution Proof & AI Output Verification
+## 🧪 Live Execution Proof & Payload Verification
 
-Here is the verified n8n execution log confirming real-time prompt evaluation, structured JSON qualification scoring, and multi-branch routing.
+Here is the verified execution log confirming successful end-to-end data processing, AI scoring, and multi-channel delivery.
 
 ### 1. n8n AI Lead Scoring Execution History
 
-![n8n AI Lead Scoring Execution History](./n8n-ai-lead-scoring-production-execution.png)
+![n8n AI Lead Scoring Execution History](n8n-ai-lead-scoring-production-execution.png)
 
 * Figure 1: n8n execution history validating 0-latency AI prompt processing and automated routing.
+
+### 2. LLM Priority Parameter Schema & Prompt Layout
+
+![LLM Determine Priority Parameters](system-2-llm-determine-priority-parameters.png)
+
+* Figure 2: Structured JSON schema and prompt parameter layout enforcing deterministic AI priority outputs.
 
 ---
 
